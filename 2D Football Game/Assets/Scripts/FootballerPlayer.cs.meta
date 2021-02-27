@@ -3,7 +3,9 @@ guid: 1ed4677a245776745bf2cb0a09d136f1
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - footballPrefab: {fileID: 7543359580920098744, guid: 98ac5cd31363048468c9af698d0b6165,
+      type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
